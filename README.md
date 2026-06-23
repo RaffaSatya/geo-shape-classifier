@@ -27,7 +27,7 @@ The model learns from the following input features (case-sensitive):
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/USERNAME_KAMU/geo-shape-classifier.git](https://github.com/USERNAME_KAMU/geo-shape-classifier.git)
+   git clone [https://github.com/RaffaSatya/geo-shape-classifier.git](https://github.com/RaffaSatya/geo-shape-classifier.git)
 
    cd geo-shape-classifier
 ```
