@@ -1,0 +1,22 @@
+Number_of_Sides,Total_Angle,Equilateral,Curved_Line,Perimeter,Area,Target_Shape
+3,180,1,0,15,10.8,Equilateral Triangle
+3,180,1,0,30,43.3,Equilateral Triangle
+3,180,1,0,45,97.4,Equilateral Triangle
+3,180,0,0,12,6.0,Scalene Triangle
+3,180,0,0,24,24.0,Scalene Triangle
+3,180,0,0,36,54.0,Scalene Triangle
+4,360,1,0,20,25.0,Square
+4,360,1,0,40,100.0,Square
+4,360,1,0,60,225.0,Square
+4,360,0,0,16,12.0,Rectangle
+4,360,0,0,26,40.0,Rectangle
+4,360,0,0,34,70.0,Rectangle
+5,540,1,0,25,43.0,Pentagon
+5,540,1,0,50,172.0,Pentagon
+5,540,1,0,75,387.4,Pentagon
+0,360,1,1,31.4,78.5,Circle
+0,360,1,1,62.8,314.2,Circle
+0,360,1,1,94.2,706.8,Circle
+0,360,0,1,25.1,47.1,Oval
+0,360,0,1,50.2,188.4,Oval
+0,360,0,1,75.4,424.1,Oval
